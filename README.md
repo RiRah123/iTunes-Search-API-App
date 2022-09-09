@@ -17,3 +17,8 @@ First, ensure that you Apache Maven downloaded onto your system. Following this,
 ```
 $ ./iTunes-Search-API-App.script.sh
 ```
+<br>
+If the shell script is not working, you can also use the following maven command below:
+```
+$ mvn compile
+```
