@@ -11,12 +11,22 @@ The `iTunes Search API App` is a GUI Application built in JavaFX, which displays
 </p>
 
 ## How to Compile?
-First, ensure that you Apache Maven downloaded onto your system. Following this, you can use the shell script command below to run the app:
+First, ensure that you Apache Maven downloaded onto your system. Following this, you can use the shell script command below to compile the app:
 ```
 $ ./iTunes-Search-API-App.script.sh
 ```
-<br>
+If the shell script is not working, you can also use the following maven commands below:
+```
+$ mvn clean
+$ mvn compile
+```
+
+## How to Run?
+You can use the shell script command from earlier to run the app as well:
+```
+$ ./iTunes-Search-API-App.script.sh
+```
 If the shell script is not working, you can also use the following maven command below:
 ```
-$ mvn compile
+$ mvn run
 ```
