@@ -28,5 +28,5 @@ $ ./iTunes-Search-API-App.script.sh
 ```
 If the shell script is not working, you can also use the following maven command below:
 ```
-$ mvn run
+$ mvn -e -Dprism.order=sw exec:java -Dexec.mainClass="cs1302.gallery.GalleryDriver"
 ```
