@@ -5,7 +5,7 @@
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## Project Summary
-The `iTunes Search API App` is a GUI Application built in JavaFX, which displays a gallery of 20 artwork images based on the search query results of the iTunes Sarch API. When the application starts up, an initial set of images is displayed, corresponding to a provided default query. However, if the user would like a set of images relevant to a praticular query, then they may enter that query on the provided text field and click the `Update Images` Button. Additionally, a play and pause mode is integrated into the app
+The `iTunes Search API App` is a GUI Application built in JavaFX, which displays a gallery of 20 artwork images based on the search query results of the iTunes Sarch API. When the application starts up, an initial set of images is displayed, corresponding to a provided default query. However, if the user would like a set of images relevant to a praticular query, then they may enter that query onto the provided text field and click the `Update Images` Button. Additionally, a play and pause mode is integrated into the app. By default, play mode is turned on, where a random image on screen will be replaced with another random image from the query result. If the user would turn off play mode, then they press the 'Play/Pause' button on the top right-hand corner.
 
 <br>
 <p align="center">
