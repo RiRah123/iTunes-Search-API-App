@@ -7,7 +7,7 @@
 ## Project Summary
 The `iTunes Search API App` is a GUI Application built in JavaFX, which displays a gallery of 20 artwork images based on the search query results of the iTunes Search API. When the application starts up, an initial set of images is displayed, corresponding to a provided default query. If the user wants to search images related to a particular query, they may enter that query into the provided text field and click the `Update Images` Button. Additionally, a play and pause mode is integrated into the app. Playmode is on by default, allowing a random image on the screen to be replaced by another one in the query result. If the user wants to off play mode, then they press the 'Play/Pause' button on the top right-hand corner.
 <p align="center">
-  <img src="https://camo.githubusercontent.com/cc67163e39e5cdcacc5fdbc9831dee842e2e6ed4fd86e1a2dba0a51335541427/68747470733a2f2f692e696d6775722e636f6d2f655568304e62462e706e67">
+  <img src="./resources/itunes-search-api-app.gif">
 </p>
 
 ## How to Compile?
